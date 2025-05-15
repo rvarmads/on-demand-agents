@@ -14,7 +14,7 @@ stages:
       - category -equals init
   jobs: 
   - job: SpinupAgent
-    displayName: Spining up Agent
+    displayName: Spinning up Agent
 
     steps:
     - checkout: none
