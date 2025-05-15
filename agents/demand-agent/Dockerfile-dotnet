@@ -1,4 +1,4 @@
-# Azure DevOps baseimage (../Dockerfile-baseimage)
+# Azure DevOps baseimage (../Dockerfile-baseimages)
 # More info: https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops#create-and-build-the-dockerfile-1
 FROM azdo-agent:latest
 
